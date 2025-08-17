@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #0B1326;
+    color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+.banner{
+    margin-bottom: 30px;
+    background-color:  #0B1326;
+    color: #dcdcdc;
+    
+}
+.banner p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding: 20px;
+   
+}
+.myintro {
+    margin-bottom: 30px;
+   
+}
+.highlight {
+    color: #008000;     
+    font-weight: bold; 
+}   
+
+.profilepic img {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.myintro h1 {
+    color: #C6CDF3;
+    margin-bottom: 10px;
+}
+.finalmen p{
+    color: #555d7b;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.myintro h2 {
+    color: #737DA3;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.sub{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.myintro p {
+    margin-bottom: 5px;
+    color: #555d7b;
+}
+
+.myprogress {
+    margin-top: 60px;
+}
+
+.myprogress div {
+    margin: 10px 0;
+}
+
+.myprogress a {
+    color: #9b682a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.myprogress a:hover {
+    text-decoration: underline;
+}
